@@ -1,6 +1,6 @@
 # k4ytieq
 
-### Hi there, I'm Fiona:tulip:
+### Hi there, I'm Fiona 🌷
  **<span style="color: pink">-Welcome to my GitHub!<3-</span>**
 
  >9-Pro
@@ -20,11 +20,11 @@
 |2:10-3:00|||||MUSIC|
 |3:00-3:10||||*examen*|*examen*|
 
-[LMS](https://jhsportal.adnu.edu.ph) :star:
+[LMS](https://jhsportal.adnu.edu.ph) ⭐
 
-[GBOX ACCOUNT](https://mail.google.com/mail/u/0/#inbox) :moon:
+[GBOX ACCOUNT](https://mail.google.com/mail/u/0/#inbox) 🌙
 
-[CLASS SCHEDULE](https://docs.google.com/spreadsheets/d/1StSO-4w4YGMcVNkV_uAYCMGAZ_i5rjrXj7O_jBaCrQA/edit#gid=0) :calendar:
+[CLASS SCHEDULE](https://docs.google.com/spreadsheets/d/1StSO-4w4YGMcVNkV_uAYCMGAZ_i5rjrXj7O_jBaCrQA/edit#gid=0) 📆
 
 ![alt text](https://i.pinimg.com/originals/e4/80/db/e480db51e2b35802ed8a0a93ea104cc8.jpg)
 
@@ -32,7 +32,7 @@
 
 - [ ]  start on schoolworks
 - [ ]  finish the GitHub activity
-- [x]  advance read :book:
+- [x]  advance read 📖
 
 **PLAYLIST**
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3UD3fV4qL3QWy4RGDcFEQX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
